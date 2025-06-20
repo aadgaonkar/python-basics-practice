@@ -1,2 +1,2 @@
 # python-basics-practice
-I track my daily progress on Python basics
+I'm practicing Python basics for Deep Learning and AI. As I progress daily, I'm going to share my projects, practice questions, etc in this repo.
